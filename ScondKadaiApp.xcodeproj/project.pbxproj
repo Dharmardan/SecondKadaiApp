@@ -12,6 +12,7 @@
 		961201D21FE3974700063CAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 961201D01FE3974700063CAB /* Main.storyboard */; };
 		961201D41FE3974700063CAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 961201D31FE3974700063CAB /* Assets.xcassets */; };
 		961201D71FE3974700063CAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 961201D51FE3974700063CAB /* LaunchScreen.storyboard */; };
+		961201DF1FE3977000063CAB /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961201DE1FE3977000063CAB /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		961201D31FE3974700063CAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		961201D61FE3974700063CAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		961201D81FE3974700063CAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		961201DE1FE3977000063CAB /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				961201CC1FE3974700063CAB /* AppDelegate.swift */,
 				961201CE1FE3974700063CAB /* ViewController.swift */,
 				961201D01FE3974700063CAB /* Main.storyboard */,
+				961201DE1FE3977000063CAB /* ResultViewController.swift */,
 				961201D31FE3974700063CAB /* Assets.xcassets */,
 				961201D51FE3974700063CAB /* LaunchScreen.storyboard */,
 				961201D81FE3974700063CAB /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				961201CF1FE3974700063CAB /* ViewController.swift in Sources */,
 				961201CD1FE3974700063CAB /* AppDelegate.swift in Sources */,
+				961201DF1FE3977000063CAB /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
